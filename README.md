@@ -4,10 +4,9 @@
 
 # `kerimhypr`
 
-### Developer · Builder · AI-assisted developer · Linux user
+### Developer · Builder · Linux-based · Security-focused
 
 <p>
-  <img src="https://img.shields.io/badge/AI--Assisted-6E56CF?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -38,14 +37,14 @@ const kerim = {
     "AI Experiments"
   ],
   stack: ["Next.js", "TypeScript", "Python", "FastAPI", "PostgreSQL", "Firebase"],
-  workflow: "AI-assisted development",
+  workflow: "AI-powered development",
   mindset: "build → break → understand → rebuild"
 };
 ```
 
-I build my projects with AI as part of the development workflow, using it to explore ideas, prototype faster, debug, refactor and iterate while keeping the engineering and final decisions under my control.
+I build projects with AI as part of my development workflow, using it to explore ideas, prototype faster, debug, refactor and iterate while keeping the engineering decisions in my hands.
 
-I use Linux as my main development environment, and Burp Suite is one of my strongest tools for understanding, inspecting and testing web applications.
+Linux is my main development environment, and Burp Suite is one of my strongest tools for inspecting and testing web applications.
 
 Most of my projects live somewhere between web applications, backend systems, realtime communication, media tooling, security testing and AI experiments.
 
@@ -60,7 +59,7 @@ Most of my projects live somewhere between web applications, backend systems, re
 <br><br>
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Assisted%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Powered%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
@@ -137,7 +136,7 @@ Experimental local file-sharing project focused on fast native/local transfer ex
 ```text
 idea
   ↓
-AI-assisted prototype
+AI-powered prototype
   ↓
 Linux development
   ↓
