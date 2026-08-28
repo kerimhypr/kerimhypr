@@ -13,7 +13,7 @@
 
 ### Humam
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="250" style="max-width:100%; height:auto;" alt="Humam GIF" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="250" style="max-width:100%; height:auto;" alt="Humam GIF" />
 
 </td>
 </tr>
@@ -72,19 +72,40 @@ Basically, the human has the keyboard. The AI has opinions.
 
 ## How I Build
 
-<table>
-<tr><td align="center"><img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="55" alt="coding sticker" /><br>Idea</td>
-<td align="center">→</td>
-<td align="center"><img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="55" alt="AI sticker" /><br>AI</td>
-<td align="center">→</td>
-<td align="center"><img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="55" alt="coding sticker" /><br>Linux + code</td>
-<td align="center">→</td>
-<td align="center"><img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="55" alt="AI sticker" /><br>Test again</td>
-<td align="center">→</td>
-<td align="center"><img src="https://media.giphy.com/media/nzWkTg9F35EdBylKiL/giphy.gif" width="55" alt="rocket sticker" /><br>Ship</td></tr>
+<div align="center">
+
+<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="70" alt="AI sticker" />
+
+### AI-assisted development, but make it chaotic
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="45" alt="idea sticker" /><br>
+<b>Idea</b>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="45" alt="AI sticker" /><br>
+<b>Ask AI</b>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="45" alt="coding sticker" /><br>
+<b>Code on Linux</b>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="45" alt="AI sticker" /><br>
+<b>Test + Debug</b>
+</td>
+<td align="center" width="20%">
+<img src="https://media.giphy.com/media/nzWkTg9F35EdBylKiL/giphy.gif" width="45" alt="rocket sticker" /><br>
+<b>Ship</b>
+</td>
+</tr>
 </table>
 
-AI has become less of a tool and more of the coworker who is somehow online at 3 AM.
+> The workflow is simple: ask AI, build on Linux, let Burp Suite find the stupid part, ask AI again, fix it, ship it, repeat.
 
 ---
 
@@ -98,7 +119,7 @@ AI has become less of a tool and more of the coworker who is somehow online at 3
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20%2B%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="55" alt="AI sticker" />
+<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="50" alt="AI sticker" />
 
 </div>
 
@@ -110,7 +131,7 @@ AI has become less of a tool and more of the coworker who is somehow online at 3
 <tr>
 <td width="50%">
 
-### <img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="35" alt="AI sticker" /> Akayroom
+### Akayroom
 
 Realtime community workspace with Firebase authentication, realtime data, WebRTC signaling and an experimental AI Twin system.
 
@@ -121,7 +142,7 @@ Realtime community workspace with Firebase authentication, realtime data, WebRTC
 </td>
 <td width="50%">
 
-### <img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="35" alt="coding sticker" /> Soulweb
+### Soulweb
 
 Web client for Soulseek-compatible backends such as slskd, with search, transfers, player controls and a server-side gateway.
 
@@ -134,7 +155,7 @@ Web client for Soulseek-compatible backends such as slskd, with search, transfer
 <tr>
 <td width="50%">
 
-### <img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="35" alt="coding sticker" /> ytdlp-web
+### ytdlp-web
 
 Stateless media extraction service built around yt-dlp and FFmpeg, with metadata inspection and media extraction APIs.
 
@@ -145,7 +166,7 @@ Stateless media extraction service built around yt-dlp and FFmpeg, with metadata
 </td>
 <td width="50%">
 
-### <img src="https://media.giphy.com/media/nzWkTg9F35EdBylKiL/giphy.gif" width="35" alt="rocket sticker" /> Droppoint
+### Droppoint
 
 Experimental local file-sharing project focused on native/local transfer experiences.
 
@@ -164,10 +185,10 @@ Experimental local file-sharing project focused on native/local transfer experie
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=9" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=10" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=9" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=10" />
 </a>
 
 <br><br>
