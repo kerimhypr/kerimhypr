@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="680" style="max-width:100%;" alt="profile GIF" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1ZHV1dGlncG5mc3JieTVmaDNkajRmd3puamUwempuajk4c29kdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mYVCsTGGfie80sCfLA/giphy.gif bu gifi yae ile degistir ustteki buyuk gif ile" width="680" style="max-width:100%;" alt="profile GIF" />
 
 <br><br>
 
