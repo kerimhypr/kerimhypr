@@ -6,14 +6,14 @@
 
 ### Kerim
 
-<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="330" height="330" style="object-fit:cover;" alt="Lucifer Michaelson" />
+<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="250" style="max-width:100%; height:auto;" alt="Lucifer Michaelson" />
 
 </td>
 <td align="center" width="50%">
 
 ### Humam
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="330" style="max-width:100%; height:auto;" alt="Humam GIF" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="250" style="max-width:100%; height:auto;" alt="Humam GIF" />
 
 </td>
 </tr>
