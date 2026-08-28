@@ -6,7 +6,8 @@
 
 ### Kerim
 
-<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="250" style="max-width:100%; height:auto;" alt="Lucifer Michaelson" />
+<div class="tenor-gif-embed" data-postid="10530912753214773060" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/lucifer-michaelson-%C3%A7ok-iyisiniz-hakaret-gibi-gif-10530912753214773060">Lucifer Michaelson çok Iyisiniz GIF</a>from <a href="https://tenor.com/search/lucifer+michaelson-gifs">Lucifer Michaelson GIFs</a></div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </td>
 <td align="center" width="50%">
@@ -67,23 +68,7 @@ AI is part of the development process from the first idea to the final refactor:
 
 ## Workflow
 
-```text
-IDEA
-  ↓
-AI
-  ↓
-BUILD ON LINUX
-  ↓
-TEST WITH BURP SUITE
-  ↓
-DEBUG
-  ↓
-ASK AI WHY IT BROKE
-  ↓
-REFACTOR
-  ↓
-SHIP
-```
+IDEA → AI → BUILD ON LINUX → TEST WITH BURP SUITE → DEBUG → ASK AI WHY IT BROKE → REFACTOR → SHIP
 
 The process is simple. The number of tabs involved is not.
 
@@ -141,10 +126,10 @@ I use AI throughout development, but the keyboard, testing and final decisions a
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=11" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=12" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=11" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=12" />
 </a>
 
 <br><br>
