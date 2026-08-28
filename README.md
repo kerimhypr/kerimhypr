@@ -6,14 +6,14 @@
 
 ### Kerim
 
-<img src="https://tenor.com/view/lucifer-michaelson-çok-iyisiniz-hakaret-gibi-gif-10530912753214773060" width="250" style="max-width:100%; height:auto;" alt="Lucifer Michaelson" />
+<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="250" style="max-width:100%; height:auto;" alt="Lucifer Michaelson" />
 
 </td>
 <td align="center" width="50%">
 
 ### Humam
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="250" style="max-width:100%; height:auto;" alt="Humam GIF" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="250" style="max-width:100%; height:auto;" alt="Humam" />
 
 </td>
 </tr>
@@ -21,162 +21,118 @@
 
 # kerimhypr
 
-### Developer · Linux enjoyer · Burp Suite enjoyer · AI's unpaid coworker
+### Developer · Linux · Web Security · AI-assisted Development
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+<br>
 
-> Yes, AI is involved. No, it still cannot explain why the code worked yesterday.
+<img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-</div>
+<br><br>
 
----
-
-## About Me
-
-```ts
-const kerim = {
-  username: "kerimhypr",
-  environment: "Linux",
-  strongest_tool: "Burp Suite",
-  development_style: "me + AI + questionable ideas",
-  focus: [
-    "Web Applications",
-    "Backend Systems",
-    "Realtime Experiences",
-    "Media Tooling",
-    "Security Testing",
-    "AI Experiments"
-  ],
-  stack: [
-    "Next.js", "TypeScript", "Python", "FastAPI",
-    "PostgreSQL", "Firebase", "Docker"
-  ],
-  workflow: "idea → AI → code → test → break → AI → fix → ship"
-};
-```
-
-I build projects with AI woven into the whole development process: brainstorming, prototyping, debugging, refactoring, documentation and the occasional rescue mission.
-
-Linux is my main development environment, while Burp Suite is one of my strongest tools for understanding and testing web applications.
-
-Basically, the human has the keyboard. The AI has opinions.
-
----
-
-## How I Build
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="70" alt="AI sticker" />
-
-### AI-assisted development, but make it chaotic
+> I use AI heavily during development. At this point, it is less of a tool and more of a coworker who never goes offline.
 
 </div>
 
-<table width="100%">
-<tr>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="45" alt="idea sticker" /><br>
-<b>Idea</b>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="45" alt="AI sticker" /><br>
-<b>Ask AI</b>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="45" alt="coding sticker" /><br>
-<b>Code on Linux</b>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="45" alt="AI sticker" /><br>
-<b>Test + Debug</b>
-</td>
-<td align="center" width="20%">
-<img src="https://media.giphy.com/media/nzWkTg9F35EdBylKiL/giphy.gif" width="45" alt="rocket sticker" /><br>
-<b>Ship</b>
-</td>
-</tr>
-</table>
+---
 
-> The workflow is simple: ask AI, build on Linux, let Burp Suite find the stupid part, ask AI again, fix it, ship it, repeat.
+## About
+
+I build web applications, backend services, realtime systems and security-focused tooling.
+
+My main environment is Linux, and Burp Suite is one of the tools I use most for inspecting and testing web applications.
+
+AI is part of the development process from the first idea to the final refactor: brainstorming, prototyping, debugging, documentation and figuring out why something worked five minutes ago.
 
 ---
 
-## Tech Stack
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,react,nodejs,fastapi,postgres,firebase,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=linux,ts,js,python,html,css,nextjs,react,nodejs,fastapi,postgres,firebase,docker,git,github" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%2B%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="50" alt="AI sticker" />
+<img src="https://img.shields.io/badge/AI%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
 ---
 
-## Featured Projects
+## Workflow
 
-<table>
-<tr>
-<td width="50%">
+```text
+IDEA
+  ↓
+AI
+  ↓
+BUILD ON LINUX
+  ↓
+TEST WITH BURP SUITE
+  ↓
+DEBUG
+  ↓
+ASK AI WHY IT BROKE
+  ↓
+REFACTOR
+  ↓
+SHIP
+```
+
+The process is simple. The number of tabs involved is not.
+
+---
+
+## Projects
 
 ### Akayroom
 
-Realtime community workspace with Firebase authentication, realtime data, WebRTC signaling and an experimental AI Twin system.
+Realtime community workspace built around Firebase authentication, realtime data and WebRTC signaling, with an experimental AI Twin system.
 
 `Next.js` `Firebase` `WebRTC` `Cerebras AI`
 
-**Development status:** AI had ideas. I had the keyboard.
-
-</td>
-<td width="50%">
-
 ### Soulweb
 
-Web client for Soulseek-compatible backends such as slskd, with search, transfers, player controls and a server-side gateway.
+Web client for Soulseek-compatible backends such as slskd, with search, transfers, player controls and a server-side gateway architecture.
 
 `Next.js` `React` `TypeScript` `PostgreSQL` `Zod`
 
-**Development status:** AI + Linux + too many tabs.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### ytdlp-web
 
-Stateless media extraction service built around yt-dlp and FFmpeg, with metadata inspection and media extraction APIs.
+Stateless media extraction service built around yt-dlp and FFmpeg, with metadata inspection and API-driven media extraction.
 
 `FastAPI` `Python` `yt-dlp` `FFmpeg` `Docker`
 
-**Development status:** mostly Python, Linux and conversations with AI.
-
-</td>
-<td width="50%">
-
 ### Droppoint
 
-Experimental local file-sharing project focused on native/local transfer experiences.
+Experimental local file-sharing project focused on fast native/local transfer experiences.
 
 `In Development`
 
-**Development status:** AI supplied suggestions. Reality supplied bugs.
+---
 
-</td>
-</tr>
-</table>
+## AI In The Loop
+
+```text
+Me: I have an idea.
+AI: Make it bigger.
+Me: It's already broken.
+AI: Make it bigger.
+Me: Fine.
+
+Linux: running
+Burp Suite: inspecting
+AI: suggesting
+Me: pressing Enter
+```
+
+I use AI throughout development, but the keyboard, testing and final decisions are still mine.
 
 ---
 
@@ -185,10 +141,10 @@ Experimental local file-sharing project focused on native/local transfer experie
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=10" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=11" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=10" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=11" />
 </a>
 
 <br><br>
@@ -199,28 +155,9 @@ Experimental local file-sharing project focused on native/local transfer experie
 
 ---
 
-## Current Development Loop
-
-```text
-AI: "I have an idea."
-Me: "That's dangerous."
-AI: "Trust me."
-Me: "Open the terminal."
-
-Linux: "Ready."
-Burp Suite: "Let's see what you broke."
-Lucifer: "Proceed."
-```
-
-Most projects begin with a random idea, an AI conversation and a terminal window on Linux.
-
----
-
 <div align="center">
 
-<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" height="180" alt="Lucifer Michaelson" />
-
-### AI + Linux + code + security + curiosity = projects
+### Linux + Burp Suite + AI + code
 
 <a href="https://github.com/kerimhypr">
 <img src="https://img.shields.io/badge/GitHub-kerimhypr-181717?style=for-the-badge&logo=github" />
