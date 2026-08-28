@@ -49,7 +49,7 @@ I also use AI a lot while developing. It's great for bouncing ideas around, debu
 | **[Akayroom](https://github.com/kerimhypr/akayroom)** | Realtime community app with Firebase, WebRTC and an experimental AI Twin system. |
 | **[Soulweb](https://github.com/kerimhypr/soulweb)** | Web client for Soulseek-compatible backends such as slskd, with search, transfers and playback. |
 | **[ytdlp-web](https://github.com/kerimhypr/ytdlp-web)** | Stateless media tooling built around yt-dlp and FFmpeg. |
-| **Droppoint** | Experimental local file-sharing project. |
+| **[Droppoint](https://github.com/kerimhypr/Droppoint)** | Experimental local file-sharing project. |
 
 ## What I use
 
