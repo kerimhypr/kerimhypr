@@ -6,14 +6,14 @@
 
 ### Kerim
 
-<img src="https://m.media-amazon.com/images/I/61fxXvWP+8L._UXNaN_FMjpg_QL85_.jpg" width="220" style="max-width:100%; height:auto;" alt="Kerim" />
+<img src="https://m.media-amazon.com/images/I/61fxXvWP+8L._UXNaN_FMjpg_QL85_.jpg" width="250" height="250" alt="Kerim" />
 
 </td>
 <td align="center" width="50%">
 
 ### Humam
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWRmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="220" style="max-width:100%; height:auto;" alt="Humam" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWRmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="250" height="250" alt="Humam" />
 
 </td>
 </tr>
