@@ -1,19 +1,19 @@
 <div align="center">
 
-<table>
+<table style="width:100%; table-layout:fixed;">
 <tr>
 <td align="center" width="50%">
 
 ### Kerim
 
-<img src="https://wsrv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61fxXvWP%2B8L._UXNaN_FMjpg_QL85_.jpg&w=240&h=240&fit=cover" width="240" height="240" alt="Kerim" />
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61fxXvWP%2B8L._UXNaN_FMjpg_QL85_.jpg&w=240&h=240&fit=cover" width="100%" height="240" alt="Kerim" />
 
 </td>
 <td align="center" width="50%">
 
 ### Humam
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuZGMwenB5OGthbngycHZudmpnencwMjI4dWdtcnc1ZmhnaW41ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kauAzgonZscDduqEdK/giphy.gif" width="240" height="240" alt="Humam" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuZGMwenB5OGthbngycHZudmpnencwMjI4dWdtcnc1ZmhnaW41ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kauAzgonZscDduqEdK/giphy.gif" width="100%" height="240" alt="Humam" />
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Not every project survives this loop. The fun ones do.
 
 <div align="center">
 
-<table>
+<table style="width:100%; table-layout:fixed;">
 <tr>
 <td width="50%" align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=19" alt="GitHub stats" />
