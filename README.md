@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="300" alt="Lucifer Michaelson" />
-&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/0z8OHqUi8U0AAAAC/yae-miko-yae-laugh.gif" width="220" alt="Yae Miko" />
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" height="220" alt="Lucifer Michaelson" />
+</td>
+<td align="center" width="50%">
+<img src="https://media1.tenor.com/m/1-StqPiqqMcAAAAd/yae-miko-genshin-impact.gif" height="220" alt="Yae Miko" />
+</td>
+</tr>
+</table>
 
 # kerimhypr
 
@@ -83,7 +90,7 @@ AI has become less of a tool and more of the coworker who is somehow online at 3
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/0z8OHqUi8U0AAAAC/yae-miko-yae-laugh.gif" width="180" alt="Yae Miko laughing" />
+<img src="https://media1.tenor.com/m/1-StqPiqqMcAAAAd/yae-miko-genshin-impact.gif" height="190" alt="Yae Miko" />
 
 ### "AI suggested it. I tested it. Burp Suite judged it."
 
@@ -200,7 +207,7 @@ Most projects begin with a random idea, an AI conversation and a terminal window
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="220" alt="Lucifer Michaelson" />
+<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" height="180" alt="Lucifer Michaelson" />
 
 ### AI + Linux + code + security + curiosity = projects
 
