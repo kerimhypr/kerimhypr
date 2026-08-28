@@ -83,7 +83,7 @@ AI has become less of a tool and more of the coworker who is somehow online at 3
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/0z8OHqUi8U0AAAAC/yae-miko-yae-laugh.gif" height="190" alt="Yae Miko laughing" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1ZHV1dGlncG5mc3JieTVmaDNkajRmd3puamUwempuajk4c29kdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mYVCsTGGfie80sCfLA/giphy.gif" height="190" alt="Yae Miko" />
 
 ### "AI suggested it. I tested it. Burp Suite judged it."
 
@@ -166,10 +166,10 @@ Experimental local file-sharing project focused on native/local transfer experie
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=3" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=4" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=3" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=4" />
 </a>
 
 <br><br>
