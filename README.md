@@ -13,7 +13,7 @@
 
 ### Humam
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1ZHV1dGlncG5mc3JieTVmaDNkajRmd3puamUwempuajk4c29kdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mYVCsTGGfie80sCfLA/giphy.gif" height="300" alt="Itto GIF" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuZGMwenB5OGthbngycHZudmpnencwMjI4dWdtcnc1ZmhnaW41ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kauAzgonZscDduqEdK/giphy.gif" height="300" alt="Itto GIF" />
 
 </td>
 </tr>
