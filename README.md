@@ -72,25 +72,17 @@ Basically, the human has the keyboard. The AI has opinions.
 
 ## How I Build
 
-```text
-             💡 idea
-               ↓
-            🤖 AI
-               ↓
-         💻 Linux + code
-               ↓
-       🦊 Burp Suite testing
-               ↓
-          💥 it breaks
-               ↓
-            🤖 AI
-               ↓
-       🔧 debug + refactor
-               ↓
-             🚀 ship
-               ↓
-       🤖 "one more feature"
-```
+<table>
+<tr><td align="center"><img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="55" alt="coding sticker" /><br>Idea</td>
+<td align="center">→</td>
+<td align="center"><img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="55" alt="AI sticker" /><br>AI</td>
+<td align="center">→</td>
+<td align="center"><img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="55" alt="coding sticker" /><br>Linux + code</td>
+<td align="center">→</td>
+<td align="center"><img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="55" alt="AI sticker" /><br>Test again</td>
+<td align="center">→</td>
+<td align="center"><img src="https://media.giphy.com/media/nzWkTg9F35EdBylKiL/giphy.gif" width="55" alt="rocket sticker" /><br>Ship</td></tr>
+</table>
 
 AI has become less of a tool and more of the coworker who is somehow online at 3 AM.
 
@@ -106,6 +98,7 @@ AI has become less of a tool and more of the coworker who is somehow online at 3
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20%2B%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="55" alt="AI sticker" />
 
 </div>
 
@@ -117,7 +110,7 @@ AI has become less of a tool and more of the coworker who is somehow online at 3
 <tr>
 <td width="50%">
 
-### 🧠 Akayroom
+### <img src="https://media.giphy.com/media/odgx356oWosMXJ0m4T/giphy.gif" width="35" alt="AI sticker" /> Akayroom
 
 Realtime community workspace with Firebase authentication, realtime data, WebRTC signaling and an experimental AI Twin system.
 
@@ -128,7 +121,7 @@ Realtime community workspace with Firebase authentication, realtime data, WebRTC
 </td>
 <td width="50%">
 
-### 🎵 Soulweb
+### <img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="35" alt="coding sticker" /> Soulweb
 
 Web client for Soulseek-compatible backends such as slskd, with search, transfers, player controls and a server-side gateway.
 
@@ -141,7 +134,7 @@ Web client for Soulseek-compatible backends such as slskd, with search, transfer
 <tr>
 <td width="50%">
 
-### 🎬 ytdlp-web
+### <img src="https://media.giphy.com/media/UbHkvXKKpU0eMwu951/giphy.gif" width="35" alt="coding sticker" /> ytdlp-web
 
 Stateless media extraction service built around yt-dlp and FFmpeg, with metadata inspection and media extraction APIs.
 
@@ -152,7 +145,7 @@ Stateless media extraction service built around yt-dlp and FFmpeg, with metadata
 </td>
 <td width="50%">
 
-### 📡 Droppoint
+### <img src="https://media.giphy.com/media/nzWkTg9F35EdBylKiL/giphy.gif" width="35" alt="rocket sticker" /> Droppoint
 
 Experimental local file-sharing project focused on native/local transfer experiences.
 
@@ -171,10 +164,10 @@ Experimental local file-sharing project focused on native/local transfer experie
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=9" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=9" />
 </a>
 
 <br><br>
