@@ -1,10 +1,21 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="280" alt="Lucifer Michaelson" />
+<table>
+<tr>
+<td align="center" width="45%">
+<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="260" alt="Lucifer Michaelson" />
+</td>
+<td align="center" width="10%">
+<h1>kerimhypr</h1>
+<h3>Developer · Builder · Linux enjoyer</h3>
+</td>
+<td align="center" width="45%">
+<img src="https://media1.tenor.com/m/0z8OHqUi8U0AAAAC/yae-miko-yae-laugh.gif" width="260" alt="Yae Miko" />
+</td>
+</tr>
+</table>
 
-# `kerimhypr`
-
-### Developer · Builder · Linux enjoyer · AI's unpaid coworker
+<p><i>building things with code, Linux, questionable ideas and an AI that somehow keeps getting invited back</i></p>
 
 <p>
   <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" />
@@ -15,22 +26,22 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-> Yes, I use AI to build my projects. No, it has not learned how to fix the bugs I created yet.
-
-<img src="https://komarev.com/ghpvc/?username=kerimhypr&style=for-the-badge&label=PROFILE+VIEWS" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kerimhypr&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 </div>
 
 ---
 
-## `whoami`
+<h2 align="center">About Me</h2>
 
 ```ts
 const kerim = {
   username: "kerimhypr",
   environment: "Linux",
   favorite_tool: "Burp Suite",
-  development_mode: "me + AI + questionable ideas",
+  development_partner: "AI",
   focus: [
     "Web Applications",
     "Backend Systems",
@@ -40,20 +51,26 @@ const kerim = {
     "AI Experiments"
   ],
   stack: ["Next.js", "TypeScript", "Python", "FastAPI", "PostgreSQL", "Firebase"],
-  workflow: "ask AI → build → test → break → ask AI why → fix",
-  mindset: "build → break → understand → rebuild"
+  workflow: "idea → AI → code → test → break → AI → fix → ship",
+  philosophy: "the AI gets suggestions; I get the keyboard"
 };
 ```
 
-I build software with AI deeply involved in the workflow: brainstorming, prototyping, debugging, refactoring, documentation and the occasional emergency at 3 AM.
+I build projects with AI deeply involved in the process: brainstorming, prototyping, debugging, refactoring, documentation and occasionally explaining why the thing we just built has decided to explode.
 
-Linux is my main development environment, and Burp Suite is one of the tools I rely on most for understanding and testing web applications.
+Linux is my main development environment, and Burp Suite is the tool I reach for when I want to see what a web application is really doing underneath the UI.
 
-The human is still responsible for the final decisions. The AI just gets an increasingly large share of the conversation.
+<div align="center">
+<img src="https://media1.tenor.com/m/RwUT-MP2vCIAAAAC/lucifer-morningstar.gif" width="220" alt="Lucifer Morningstar" />
+</div>
 
 ---
 
-## `how I build`
+<h2 align="center">The AI-Certified Development Process™</h2>
+
+<div align="center">
+
+<img src="https://media1.tenor.com/m/0z8OHqUi8U0AAAAC/yae-miko-yae-laugh.gif" width="180" alt="Yae Miko laughing" />
 
 ```text
 🧠 idea
@@ -66,20 +83,24 @@ The human is still responsible for the final decisions. The AI just gets an incr
    ↓
 💥 something breaks
    ↓
-🤖 ask AI again
+🤖 ask AI why
    ↓
 🔧 debug + refactor
    ↓
 🚀 ship
    ↓
-🤖 immediately get another idea
+🤖 "I have another idea"
+   ↓
+😐 me: here we go again
 ```
 
-AI is not a side feature in my workflow. It is basically the coworker who never sleeps, never takes lunch, and occasionally suggests something that makes me question my entire codebase.
+</div>
+
+AI is not some tiny side feature in my workflow. It is the coworker who never sleeps, never takes lunch, generates 14 possible solutions and somehow makes me responsible for choosing the least cursed one.
 
 ---
 
-## `tech stack`
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -88,13 +109,13 @@ AI is not a side feature in my workflow. It is basically the coworker who never 
 <br><br>
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%2B%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Pair%20Programming-6E56CF?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
 ---
 
-## `featured projects`
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
@@ -106,7 +127,7 @@ Realtime community workspace using Firebase authentication, realtime data and We
 
 `Next.js` `Firebase` `WebRTC` `Cerebras AI`
 
-**Built with:** me, Linux, caffeine and a suspicious amount of AI.
+**Built with:** Linux, AI, caffeine and a suspicious amount of iteration.
 
 </td>
 <td width="50%">
@@ -147,9 +168,13 @@ Experimental local file-sharing project focused on fast native/local transfer ex
 </tr>
 </table>
 
+<div align="center">
+<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="190" alt="Lucifer Michaelson" />
+</div>
+
 ---
 
-## `github stats`
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -168,37 +193,57 @@ Experimental local file-sharing project focused on fast native/local transfer ex
 
 ---
 
-## `currently building`
+<h2 align="center">Currently Building</h2>
+
+<div align="center">
+
+<img src="https://media1.tenor.com/m/0z8OHqUi8U0AAAAC/yae-miko-yae-laugh.gif" width="150" alt="Yae Miko" />
 
 ```text
 AI: "I have an idea."
 Me: "That's dangerous."
 AI: "Trust me."
 Me: "...open the terminal."
+
+Linux → code → Burp Suite → bugs → AI → fixes → repeat
 ```
 
-Most projects start somewhere between a random idea, an AI conversation and a terminal window on Linux.
+</div>
 
 ---
 
-## `development philosophy`
+<h2 align="center">Development Philosophy</h2>
+
+<div align="center">
 
 > Let AI handle the boring parts.
 >
 > Let Linux handle the environment.
 >
-> Let Burp Suite tell you what your web app forgot.
+> Let Burp Suite tell you what the web app forgot.
 >
-> Let yourself decide what actually ships.
+> Let Yae Miko judge the architecture.
+>
+> Let Lucifer deal with the consequences.
+
+<br>
+
+<img src="https://media.tenor.com/ac6liIsVIVoAAAAe/lucifer-grimace.png" width="210" alt="Lucifer unimpressed" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### `AI + Linux + code + security + curiosity = projects`
+<h3>AI + Linux + code + security + curiosity</h3>
 
 <a href="https://github.com/kerimhypr">
 <img src="https://img.shields.io/badge/GitHub-kerimhypr-181717?style=for-the-badge&logo=github" />
 </a>
+
+<br><br>
+
+<i>the human is still responsible for production</i>
 
 </div>
