@@ -1,15 +1,8 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" height="220" alt="Lucifer Michaelson" />
-</td>
-<td align="center" width="50%">
-<img src="https://media1.tenor.com/m/1-StqPiqqMcAAAAd/yae-miko-genshin-impact.gif" height="220" alt="Yae Miko" />
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="680" style="max-width:100%;" alt="profile GIF" />
+
+<br><br>
 
 # kerimhypr
 
@@ -90,7 +83,7 @@ AI has become less of a tool and more of the coworker who is somehow online at 3
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/1-StqPiqqMcAAAAd/yae-miko-genshin-impact.gif" height="190" alt="Yae Miko" />
+<img src="https://media1.tenor.com/m/0z8OHqUi8U0AAAAC/yae-miko-yae-laugh.gif" height="190" alt="Yae Miko laughing" />
 
 ### "AI suggested it. I tested it. Burp Suite judged it."
 
@@ -173,10 +166,10 @@ Experimental local file-sharing project focused on native/local transfer experie
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=2" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=3" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=2" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=3" />
 </a>
 
 <br><br>
