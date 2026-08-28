@@ -6,14 +6,14 @@
 
 ### Kerim
 
-<img src="https://m.media-amazon.com/images/I/61fxXvWP+8L._UXNaN_FMjpg_QL85_.jpg" width="250" height="250" alt="Kerim" />
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61fxXvWP%2B8L._UXNaN_FMjpg_QL85_.jpg&w=240&h=240&fit=cover" width="240" height="240" alt="Kerim" />
 
 </td>
 <td align="center" width="50%">
 
 ### Humam
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWRmY3Q9Zw/QMNDR0eBmRLPi60gN9/giphy.gif" width="250" height="250" alt="Humam" />
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExdDluNzFqdXltMWNjNXhqZ3hiMGhxMG96ZGc2MTF2cndtemFyYm5rNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw%2FQMNDR0eBmRLPi60gN9%2Fgiphy.gif&w=240&h=240&fit=cover" width="240" height="240" alt="Humam" />
 
 </td>
 </tr>
@@ -73,17 +73,17 @@ idea → build → test → break → debug → repeat
 
 Not every project survives this loop. The fun ones do.
 
-## GitHub
+## GitHub stats
 
 <div align="center">
 
 <table>
 <tr>
 <td width="50%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=18" alt="GitHub stats" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=19" alt="GitHub stats" />
 </td>
 <td width="50%" align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=18" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=19" alt="Top languages" />
 </td>
 </tr>
 </table>
