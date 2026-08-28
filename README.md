@@ -103,8 +103,12 @@ Experimental local file-sharing project focused on fast native/local transfer ex
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kerimhypr&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimhypr&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<a href="https://github.com/kerimhypr">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight" />
+</a>
+<a href="https://github.com/kerimhypr">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight" />
+</a>
 
 <br><br>
 
