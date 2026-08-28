@@ -4,7 +4,7 @@
 
 # `kerimhypr`
 
-### Developer · Builder · Linux-based · Security-focused
+### Developer · Builder · Linux enjoyer · AI's unpaid coworker
 
 <p>
   <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" />
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
+
+> Yes, I use AI to build my projects. No, it has not learned how to fix the bugs I created yet.
 
 <img src="https://komarev.com/ghpvc/?username=kerimhypr&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -27,7 +29,8 @@
 const kerim = {
   username: "kerimhypr",
   environment: "Linux",
-  strongest_tool: "Burp Suite",
+  favorite_tool: "Burp Suite",
+  development_mode: "me + AI + questionable ideas",
   focus: [
     "Web Applications",
     "Backend Systems",
@@ -37,16 +40,42 @@ const kerim = {
     "AI Experiments"
   ],
   stack: ["Next.js", "TypeScript", "Python", "FastAPI", "PostgreSQL", "Firebase"],
-  workflow: "AI-powered development",
+  workflow: "ask AI → build → test → break → ask AI why → fix",
   mindset: "build → break → understand → rebuild"
 };
 ```
 
-I build projects with AI as part of my development workflow, using it to explore ideas, prototype faster, debug, refactor and iterate while keeping the engineering decisions in my hands.
+I build software with AI deeply involved in the workflow: brainstorming, prototyping, debugging, refactoring, documentation and the occasional emergency at 3 AM.
 
-Linux is my main development environment, and Burp Suite is one of my strongest tools for inspecting and testing web applications.
+Linux is my main development environment, and Burp Suite is one of the tools I rely on most for understanding and testing web applications.
 
-Most of my projects live somewhere between web applications, backend systems, realtime communication, media tooling, security testing and AI experiments.
+The human is still responsible for the final decisions. The AI just gets an increasingly large share of the conversation.
+
+---
+
+## `how I build`
+
+```text
+🧠 idea
+   ↓
+🤖 ask AI
+   ↓
+💻 build on Linux
+   ↓
+🧪 test with Burp Suite
+   ↓
+💥 something breaks
+   ↓
+🤖 ask AI again
+   ↓
+🔧 debug + refactor
+   ↓
+🚀 ship
+   ↓
+🤖 immediately get another idea
+```
+
+AI is not a side feature in my workflow. It is basically the coworker who never sleeps, never takes lunch, and occasionally suggests something that makes me question my entire codebase.
 
 ---
 
@@ -59,7 +88,7 @@ Most of my projects live somewhere between web applications, backend systems, re
 <br><br>
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Powered%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%2B%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
@@ -77,6 +106,8 @@ Realtime community workspace using Firebase authentication, realtime data and We
 
 `Next.js` `Firebase` `WebRTC` `Cerebras AI`
 
+**Built with:** me, Linux, caffeine and a suspicious amount of AI.
+
 </td>
 <td width="50%">
 
@@ -85,6 +116,8 @@ Realtime community workspace using Firebase authentication, realtime data and We
 Web client for Soulseek-compatible backends such as slskd, with search, transfers, player controls and a server-side gateway.
 
 `Next.js` `React` `TypeScript` `PostgreSQL` `Zod`
+
+**Development recipe:** idea → AI → code → test → AI → code.
 
 </td>
 </tr>
@@ -97,6 +130,8 @@ Stateless media extraction service built around yt-dlp and FFmpeg, with metadata
 
 `FastAPI` `Python` `yt-dlp` `FFmpeg` `Docker`
 
+**Powered by:** Python, Linux and several conversations with AI.
+
 </td>
 <td width="50%">
 
@@ -105,6 +140,8 @@ Stateless media extraction service built around yt-dlp and FFmpeg, with metadata
 Experimental local file-sharing project focused on fast native/local transfer experiences.
 
 `In Development`
+
+**Status:** AI has suggestions. I have the keyboard.
 
 </td>
 </tr>
@@ -134,20 +171,25 @@ Experimental local file-sharing project focused on fast native/local transfer ex
 ## `currently building`
 
 ```text
-idea
-  ↓
-AI-powered prototype
-  ↓
-Linux development
-  ↓
-Burp Suite testing
-  ↓
-debugging
-  ↓
-refactoring
-  ↓
-ship it
+AI: "I have an idea."
+Me: "That's dangerous."
+AI: "Trust me."
+Me: "...open the terminal."
 ```
+
+Most projects start somewhere between a random idea, an AI conversation and a terminal window on Linux.
+
+---
+
+## `development philosophy`
+
+> Let AI handle the boring parts.
+>
+> Let Linux handle the environment.
+>
+> Let Burp Suite tell you what your web app forgot.
+>
+> Let yourself decide what actually ships.
 
 ---
 
