@@ -81,6 +81,16 @@ AI has become less of a tool and more of the coworker who is somehow online at 3
 
 ---
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1ZHV1dGlncG5mc3JieTVmaDNkajRmd3puamUwempuajk4c29kdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mYVCsTGGfie80sCfLA/giphy.gif?v=6" height="190" alt="Yae Miko" />
+
+### "AI suggested it. I tested it. Burp Suite judged it."
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
