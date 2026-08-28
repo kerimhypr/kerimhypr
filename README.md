@@ -6,8 +6,7 @@
 
 ### Kerim
 
-<div class="tenor-gif-embed" data-postid="10530912753214773060" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/lucifer-michaelson-%C3%A7ok-iyisiniz-hakaret-gibi-gif-10530912753214773060">Lucifer Michaelson çok Iyisiniz GIF</a>from <a href="https://tenor.com/search/lucifer+michaelson-gifs">Lucifer Michaelson GIFs</a></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="10530912753214773060" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/lucifer-michaelson-%C3%A7ok-iyisiniz-hakaret-gibi-gif-10530912753214773060">Lucifer Michaelson çok Iyisiniz GIF</a> from <a href="https://tenor.com/search/lucifer+michaelson-gifs">Lucifer Michaelson GIFs</a></div>
 
 </td>
 <td align="center" width="50%">
@@ -22,9 +21,7 @@
 
 # kerimhypr
 
-### Developer · Linux · Web Security · AI-assisted Development
-
-<br>
+### Developer · Linux · Web Security · AI-powered Development
 
 <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
@@ -33,11 +30,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-<br><br>
-
-> I use AI heavily during development. At this point, it is less of a tool and more of a coworker who never goes offline.
-
-</div>
+> AI is part of my everyday workflow. At this point, it is basically the coworker who never logs off.
 
 ---
 
@@ -45,9 +38,9 @@
 
 I build web applications, backend services, realtime systems and security-focused tooling.
 
-My main environment is Linux, and Burp Suite is one of the tools I use most for inspecting and testing web applications.
+Linux is my main development environment, and Burp Suite is one of my strongest tools for inspecting and testing web applications.
 
-AI is part of the development process from the first idea to the final refactor: brainstorming, prototyping, debugging, documentation and figuring out why something worked five minutes ago.
+AI is involved from idea to iteration: brainstorming, prototyping, implementation, debugging, refactoring and documentation. The keyboard is still mine.
 
 ---
 
@@ -68,7 +61,7 @@ AI is part of the development process from the first idea to the final refactor:
 
 ## Workflow
 
-IDEA → AI → BUILD ON LINUX → TEST WITH BURP SUITE → DEBUG → ASK AI WHY IT BROKE → REFACTOR → SHIP
+**IDEA** → **AI** → **BUILD ON LINUX** → **TEST WITH BURP SUITE** → **DEBUG** → **ASK AI WHY IT BROKE** → **REFACTOR** → **SHIP**
 
 The process is simple. The number of tabs involved is not.
 
@@ -117,7 +110,7 @@ AI: suggesting
 Me: pressing Enter
 ```
 
-I use AI throughout development, but the keyboard, testing and final decisions are still mine.
+I use AI heavily throughout development, while keeping testing, final decisions and the keyboard on my side.
 
 ---
 
@@ -126,10 +119,10 @@ I use AI throughout development, but the keyboard, testing and final decisions a
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=12" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=13" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=12" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=13" />
 </a>
 
 <br><br>
@@ -142,7 +135,7 @@ I use AI throughout development, but the keyboard, testing and final decisions a
 
 <div align="center">
 
-### Linux + Burp Suite + AI + code
+### Linux · Burp Suite · AI · Code
 
 <a href="https://github.com/kerimhypr">
 <img src="https://img.shields.io/badge/GitHub-kerimhypr-181717?style=for-the-badge&logo=github" />
