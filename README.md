@@ -6,7 +6,7 @@
 
 ### Kerim
 
-<div class="tenor-gif-embed" data-postid="10530912753214773060" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/lucifer-michaelson-%C3%A7ok-iyisiniz-hakaret-gibi-gif-10530912753214773060">Lucifer Michaelson çok Iyisiniz GIF</a> from <a href="https://tenor.com/search/lucifer+michaelson-gifs">Lucifer Michaelson GIFs</a></div>
+<img src="https://m.media-amazon.com/images/I/61fxXvWP+8L._UXNaN_FMjpg_QL85_.jpg" width="250" style="max-width:100%; height:auto;" alt="Kerim" />
 
 </td>
 <td align="center" width="50%">
@@ -119,10 +119,10 @@ I use AI heavily throughout development, while keeping testing, final decisions 
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=13" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=14" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=13" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=14" />
 </a>
 
 <br><br>
