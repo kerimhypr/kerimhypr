@@ -13,7 +13,7 @@
 
 ### Humam
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuZGMwenB5OGthbngycHZudmpnencwMjI4dWdtcnc1ZmhnaW41ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kauAzgonZscDduqEdK/giphy.gif&w=240&h=240&fit=cover" width="240" height="240" alt="Humam" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJuZGMwenB5OGthbngycHZudmpnencwMjI4dWdtcnc1ZmhnaW41ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kauAzgonZscDduqEdK/giphy.gif" width="240" height="240" alt="Humam" />
 
 </td>
 </tr>
