@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1ZHV1dGlncG5mc3JieTVmaDNkajRmd3puamUwempuajk4c29kdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mYVCsTGGfie80sCfLA/giphy.gif" width="680" style="max-width:100%;" alt="profile GIF" />
-
-<br><br>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" height="220" alt="Lucifer Michaelson" />
+</td>
+<td align="center" width="50%">
+<img src="https://media1.tenor.com/m/cHeZuJHSZIgAAAAd/itto-arataki-itto.gif" height="220" alt="Arataki Itto" />
+</td>
+</tr>
+</table>
 
 # kerimhypr
 
@@ -156,10 +163,10 @@ Experimental local file-sharing project focused on native/local transfer experie
 <div align="center">
 
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=6" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerimhypr&theme=tokyonight&v=7" />
 </a>
 <a href="https://github.com/kerimhypr">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=6" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerimhypr&theme=tokyonight&v=7" />
 </a>
 
 <br><br>
