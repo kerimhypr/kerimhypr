@@ -6,7 +6,7 @@
 
 ### Kerim
 
-<img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" width="250" style="max-width:100%; height:auto;" alt="Lucifer Michaelson" />
+<img src="https://tenor.com/view/lucifer-michaelson-çok-iyisiniz-hakaret-gibi-gif-10530912753214773060" width="250" style="max-width:100%; height:auto;" alt="Lucifer Michaelson" />
 
 </td>
 <td align="center" width="50%">
