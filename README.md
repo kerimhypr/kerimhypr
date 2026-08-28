@@ -6,7 +6,7 @@
 <img src="https://media1.tenor.com/m/hNSs58wTn7AAAAAd/lucifer-michaelson.gif" height="220" alt="Lucifer Michaelson" />
 </td>
 <td align="center" width="50%">
-<img src="https://media1.tenor.com/m/cHeZuJHSZIgAAAAd/itto-arataki-itto.gif" height="220" alt="Arataki Itto" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ1ZHV1dGlncG5mc3JieTVmaDNkajRmd3puamUwempuajk4c29kdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mYVCsTGGfie80sCfLA/giphy.gif" height="220" alt="Arataki Itto" />
 </td>
 </tr>
 </table>
