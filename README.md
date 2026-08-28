@@ -4,14 +4,15 @@
 
 # `kerimhypr`
 
-### Developer · Builder · Professional bug creator
+### Developer · Builder · AI-assisted developer
 
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/AI-Assisted-6E56CF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=kerimhypr&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -32,11 +33,12 @@ const kerim = {
     "AI Experiments"
   ],
   stack: ["Next.js", "TypeScript", "Python", "FastAPI", "PostgreSQL", "Firebase"],
+  workflow: "AI-assisted development",
   mindset: "build → break → understand → rebuild"
 };
 ```
 
-I like building software from the ground up and turning random ideas into things that are actually usable.
+I build my projects with AI as part of the development workflow, using it to explore ideas, prototype faster, debug, refactor and iterate while keeping the engineering and final decisions under my control.
 
 Most of my projects live somewhere between web applications, backend systems, realtime communication, media tooling and AI experiments.
 
@@ -121,24 +123,26 @@ Experimental local file-sharing project focused on fast native/local transfer ex
 ## `currently building`
 
 ```text
-coding
+idea
+  ↓
+AI-assisted prototype
   ↓
 testing
   ↓
 why is this broken?
   ↓
-fixing it
+debugging
   ↓
-make it worse
+refactoring
   ↓
-fixing it again
+ship it
 ```
 
 ---
 
 <div align="center">
 
-### `build → break → learn → repeat`
+### `AI + code + curiosity = projects`
 
 <a href="https://github.com/kerimhypr">
 <img src="https://img.shields.io/badge/GitHub-kerimhypr-181717?style=for-the-badge&logo=github" />
