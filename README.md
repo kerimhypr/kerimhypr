@@ -4,10 +4,12 @@
 
 # `kerimhypr`
 
-### Developer · Builder · AI-assisted developer
+### Developer · Builder · AI-assisted developer · Linux user
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Assisted-6E56CF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Assisted-6E56CF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,11 +27,14 @@
 ```ts
 const kerim = {
   username: "kerimhypr",
+  environment: "Linux",
+  strongest_tool: "Burp Suite",
   focus: [
     "Web Applications",
     "Backend Systems",
     "Realtime Experiences",
     "Media Tooling",
+    "Security Testing",
     "AI Experiments"
   ],
   stack: ["Next.js", "TypeScript", "Python", "FastAPI", "PostgreSQL", "Firebase"],
@@ -40,7 +45,9 @@ const kerim = {
 
 I build my projects with AI as part of the development workflow, using it to explore ideas, prototype faster, debug, refactor and iterate while keeping the engineering and final decisions under my control.
 
-Most of my projects live somewhere between web applications, backend systems, realtime communication, media tooling and AI experiments.
+I use Linux as my main development environment, and Burp Suite is one of my strongest tools for understanding, inspecting and testing web applications.
+
+Most of my projects live somewhere between web applications, backend systems, realtime communication, media tooling, security testing and AI experiments.
 
 ---
 
@@ -49,6 +56,11 @@ Most of my projects live somewhere between web applications, backend systems, re
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,react,nodejs,fastapi,postgres,firebase,docker,git,github,linux" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Assisted%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
@@ -127,9 +139,9 @@ idea
   ↓
 AI-assisted prototype
   ↓
-testing
+Linux development
   ↓
-why is this broken?
+Burp Suite testing
   ↓
 debugging
   ↓
@@ -142,7 +154,7 @@ ship it
 
 <div align="center">
 
-### `AI + code + curiosity = projects`
+### `AI + Linux + code + security + curiosity = projects`
 
 <a href="https://github.com/kerimhypr">
 <img src="https://img.shields.io/badge/GitHub-kerimhypr-181717?style=for-the-badge&logo=github" />
